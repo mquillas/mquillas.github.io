@@ -94,7 +94,7 @@ h2 {
 }
 
 .header {
-    background-color: #1b2127;
+    background-color: #1c252c;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -134,7 +134,7 @@ figure {
 
 .footer {
     color: white;
-    background-color: #1b2127;
+    background-color: #1c252c;
     display: flex;
     align-items: center;
     justify-content: space-between;
